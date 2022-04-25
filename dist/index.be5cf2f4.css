@@ -4,12 +4,11 @@
   margin-left: 40px;
 }
 .mapImg {
-  background-image: url("./assets/world_map.png");
+  background-image: url("world_map.0532bf85.png");
   background-size: contain;
   height: 100%;
   width: 100%;
 }
-
 .countryWrapper {
   display: grid;
   grid-template-columns: 500px 500px;
@@ -17,12 +16,10 @@
   grid-column-gap: 20px;
   grid-row-gap: 10px;
 }
-
 .countryItem {
   display: flex;
   width: 500px;
 }
-
 .countryImg {
   height: 110px;
 }
@@ -30,7 +27,6 @@
   widht: 180px;
   height: 100%;
 }
-
 .countryText {
   height: 80px;
   display: flex;
@@ -59,3 +55,5 @@
 .Oceania {
   background-color: blue;
 }
+
+/*# sourceMappingURL=index.be5cf2f4.css.map */
